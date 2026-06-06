@@ -18,6 +18,15 @@ Unlike scripts that permanently override the chat layout, **Torn Chat Mover v6 k
 >
 > This project is still under active development. Features and behaviour may change, and bugs are expected.
 
+# 🚀 Quick Install
+
+Click the link below to install directly into Tampermonkey:
+
+👉 **Install Script (Raw GitHub)**  
+https://raw.githubusercontent.com/Nanthia/Torn-City-Chat-ReOrg/main/TornChatMover.user.js
+
+> If Tampermonkey is installed, this will open an install prompt automatically.
+
 ---
 
 # Features
