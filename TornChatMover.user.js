@@ -1,13 +1,20 @@
 // ==UserScript==
-// @name         Torn Chat Mover v6
-// @namespace    https://torn.city
+// @name         Torn Chat ReOrg
+// @namespace    https://github.com/Nanthia/Torn-City-Chat-ReOrg
 // @version      6.0.0
-// @description  Non-destructive draggable Torn chat — natural until moved, persistent on drag
+// @description  Reorganize and persist Torn chat windows.
 // @author       Antheia
 // @match        https://www.torn.com/*
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=torn.com
+// @homepageURL  https://github.com/Nanthia/Torn-City-Chat-ReOrg
+// @supportURL   https://github.com/Nanthia/Torn-City-Chat-ReOrg/issues
+// @updateURL    https://raw.githubusercontent.com/Nanthia/Torn-City-Chat-ReOrg/main/TornChatMover.user.js
+// @downloadURL  https://raw.githubusercontent.com/Nanthia/Torn-City-Chat-ReOrg/main/TornChatMover.user.js
+// @license      MIT
 // @grant        GM_setValue
 // @grant        GM_getValue
 // @run-at       document-idle
+
 // ==/UserScript==
 
 (function () {
